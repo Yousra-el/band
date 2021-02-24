@@ -223,9 +223,7 @@ input{
 .part1 p{
     margin-left: 120px;
 }
-.part2 {
-    margin-left; 
-}
+
 .part2 input {
     height:40px;
     width: 170px;
@@ -258,14 +256,14 @@ input{
 footer p{
     text-align: center;
     padding: 50px;
-    color:white;
+    color:black;
 
 }
 footer a{
-    color: white;
+    color: black;
 }
 footer{
-    background-color: rgba(219, 203, 203, 0.904);
+    background-color:#f1f1f1 ;
     margin-top: 0;
     
     width:100%;
