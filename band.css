@@ -12,7 +12,7 @@ header {
     height: 50px;
     width: 100%;
     background-color: black;
-    position: fixed;
+    position: relative fixed;
     display: block;
     
 }
@@ -223,7 +223,7 @@ input{
     margin-left: 120px;
 }
 .part2 {
-    margin-left: 
+    margin-left; 
 }
 .part2 input {
     height:40px;
