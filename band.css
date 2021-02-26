@@ -14,6 +14,7 @@ header {
     background-color: black;
     position: fixed ;
     display: block;
+    z-index:1;
     
 }
 
@@ -154,9 +155,7 @@ input{
     margin-right: 15px;
     
 }
-.imgs {
-    background-color: black;
-}
+
 .img1 img{
     width: 240px;
     height: 210px;
