@@ -32,6 +32,12 @@ header {
     list-style: none;
     
 }
+.navbar li:hover {
+    background-color: silver;
+    color: black;
+    border:solid 1px silver;
+    cursor:pointer;
+}
 .first-pic{
     width: 100%;
     height: auto;
@@ -144,13 +150,11 @@ input{
     display: flex;
     justify-content: center;
     background-color: black;
-    
-    
-    
+   
 }
 .img1 {
     width: 240px;
-    height:210px;
+    height:511px;
     margin-top: 30px;
     margin-right: 15px;
     
@@ -166,6 +170,7 @@ input{
     border: solid 1px white;
     margin-top: 0;
     margin-bottom: 50px;
+    background-color: white;
 }
 .img1 p {
     text-align: justify;
@@ -188,6 +193,12 @@ input{
     color:white;
     border: solid 1px black;
     
+}
+.img1 button:hover {
+    background-color: silver;
+    color:black;
+    border:solid 1px silver;
+    cursor:pointer;
 }
 .contact {
     margin-top: 270px;
@@ -244,6 +255,12 @@ input{
     margin-top:15px;
     border: solid 1px black;
     margin-bottom: 20px;
+}
+.part2 button:hover{
+    background-color: silver;
+    color: black;
+    border:solid 1px silver;
+    cursor:pointer;
 }
 .map img{
     width: 100%;
